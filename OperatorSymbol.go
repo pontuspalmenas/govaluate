@@ -56,10 +56,10 @@ const (
 	functionalPrecedence
 	prefixPrecedence
 	exponentialPrecedence
-	additivePrecedence
 	bitwisePrecedence
 	bitwiseShiftPrecedence
 	multiplicativePrecedence
+	additivePrecedence	
 	comparatorPrecedence
 	ternaryPrecedence
 	logicalAndPrecedence
